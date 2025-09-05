@@ -1,0 +1,14 @@
+ul{
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+  font-size: 25px;
+  
+}
+.active-link{
+  border: 2px solid red;
+  border-radius: 5px;
+}
